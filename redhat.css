@@ -1,0 +1,64 @@
+#preso {
+  font-family: "Liberation Sans",
+             "Lucida Grande",
+             Corbel,
+             "Lucida Sans Unicode",
+             "Lucida Sans",
+             "DejaVu Sans",
+             "Bitstream Vera Sans",
+             Verdana,
+             sans-serif;
+}
+
+div#preso .slide .content {
+  margin-top : 50px!important;
+  margin-left : 50px;
+  font-size : 12pt;
+}
+
+#preso h1,
+#preso h2,
+#preso h3 {
+  font-weight : bold;
+  text-align : left;
+}
+
+#preso h1 { font-size : 30pt; padding-bottom : 30px; }
+#preso h2 { font-size : 15pt; }
+#preso h3 { font-size : 12pt; }
+
+div#preso .slide:first-child .content {
+  margin-top : 160px!important;
+  margin-left : 130px;
+}
+
+div#preso .slide:first-child .content h1,
+div#preso .slide:first-child .content h2,
+div#preso .slide:first-child .content h3 {
+  color : #fff;
+  font-weight : normal;
+}
+
+div#preso .slide:first-child .content h1 {
+  text-transform: uppercase;
+}
+
+div#preso .slide {
+  background : url('rh_logo.png') no-repeat bottom right;
+}
+
+div#preso ul li {
+  text-align : left;
+  list-style : disc;
+  padding : 5px 0 5px 0;
+  color : #aaa;
+  font-size: 20pt;
+}
+
+div#preso ul li * {
+  color : #000;
+}
+
+div#preso .slide:first-child {
+  background : url('rh_bg.png') no-repeat;
+}

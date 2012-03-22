@@ -1,0 +1,7 @@
+{ 
+  "name": "CloudForms QA",
+  "description": "Presentation for Open House 2012 about CloudForms QA teams",
+  "sections": [ 
+    {"section":"one"} 
+  ]
+}
