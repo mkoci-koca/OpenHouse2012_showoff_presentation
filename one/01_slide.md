@@ -2,7 +2,7 @@
 # CloudForms QA 2012 #
 
 ## Martin Koci ##
-## Senior QA Engineer, Red Hat ##
+## Senior QA Engineer Lead, Red Hat ##
 ## 4.4.2012 ##
 
 <!SLIDE bullets incremental>
@@ -26,7 +26,6 @@
 ![clouds](../Cloud_computing.png)
 
 * Term w/ many definitions
-* Expansion on the concept of the grid, virtualization
 * IaaS, PaaS, SaaS
 
 <!SLIDE bullets incremental>
@@ -37,9 +36,9 @@
 * Private Clouds
   * Infrastructure operated solely for a single organization
 * Some examples
+  - RHEV-M
   - EC2
   - VMWare vSphere
-  - RHEV
   - CondorCloud
 
 <!SLIDE incremental>
@@ -48,7 +47,7 @@
 ![lost user](../lost_homer.png)
 
 * Too many different APIs and tools/interfaces
-* Proprietary / Vendor Lockin
+* Hard to handle/manage all of them
 
 !SLIDE bullets incremental
 # What is the solution #
@@ -76,22 +75,33 @@
 
 !SLIDE
 # Application Engine QA #
+ * pretty new team in Brno
+ * <b>0</b> people in Brno
+ * Python/Ruby/RoR
  * See the command line mock example
 
 !SLIDE
 # Cloud Engine QA #
+ * <b>0</b> people in Brno
+ * 4 people in US
+ * 5 people in India
+ * RoR/Python/Ruby
  * See the Aeolus example
 
-!SLIDE incremental
+!SLIDE 
 # System Engine QA #
  * Systems management software
  * Control of your SW and systems through the web interface
+ * 4 people in US
+ * 2 people in Brno
+ * 2 people in India
+ * Java/Python/Bash
    <br/><br/>
    <center>
    ![Katello architecture](../arch-diagram.png)
    </center>
 
-!SLIDE incremental
+!SLIDE 
 # Matahari, DeltaCloud QA #
  * Matahari - deprecated 
  * http://deltacloud.apache.org
@@ -114,8 +124,10 @@ I'd be happy if you remmeber/note at least these:
 
 !SLIDE
 # Questions #
-<br/><br/>
-<center> ? </center>
-<br/><br/>
+<h1><center> ? </center></h1>
 \</presentation\>
+<br/>
+Stay tuned for next presentation about
+<h1><center>RHEV-M/oVirt</center></h1>
 
+![Stay tuned](../images.jpg)
