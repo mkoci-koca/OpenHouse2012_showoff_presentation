@@ -94,6 +94,7 @@
  * 2 people in Brno
  * 2 people in India
  * Java/Python/Bash
+ (Internal demo: https://smqe-sat04.lab.eng.brq.redhat.com/katello)
    <br/><br/>
    <center>
    ![Katello architecture](../arch-diagram.png)
@@ -112,9 +113,10 @@
 I'd be happy if you remmeber/note at least these:
 
 * links
-  * www.aeolusproject.org
-  * www.deltacloud.org
-  * www.katello.org
+  * http://www.aeolusproject.org
+  * http://www.deltacloud.org
+  * http://www.katello.org
+  * https://fedorahosted.org/katello/wiki
 * mailing-lists
   * aeolus-devel@lists.fedorahoststed.org
   * iwhd-devel@lists.fedorahosted.org
