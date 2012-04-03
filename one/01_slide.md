@@ -78,7 +78,6 @@
  * pretty new team in Brno
  * <b>0</b> people in Brno
  * Python/Ruby/RoR
- * See the command line mock example
 
 !SLIDE
 # Cloud Engine QA #
@@ -86,7 +85,6 @@
  * 4 people in US
  * 5 people in India
  * RoR/Python/Ruby
- * See the Aeolus example
 
 !SLIDE 
 # System Engine QA #
