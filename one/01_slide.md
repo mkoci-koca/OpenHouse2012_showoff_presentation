@@ -2,7 +2,7 @@
 # CloudForms QA 2012 #
 
 ## Martin Koci ##
-## Senior QA Engineer Lead, Red Hat ##
+## Senior QA Engineer Lead, Red Hat, Inc. ##
 ## 4.4.2012 ##
 
 <!SLIDE bullets incremental>
@@ -69,15 +69,27 @@
 * Using Cloud Engine
   * Conductor
   * Aeolus Configure
-  * Audrey
+  * Audrey - Set of tools to do run-time configuration of cloud instances
 * Using System Engine
-  * Katello
+  * Katello - solution for controlling the lifecycle of your machines
 
-!SLIDE
+!SLIDE 
 # Application Engine QA #
- * pretty new team in Brno
+ * pretty new team in Brno - myself so far :)
  * <b>0</b> people in Brno
  * Python/Ruby/RoR
+ * http://www.aeolusproject.org/source.html
+<br/>
+<br/><br/>
+<br/>
+<br/>
+<br/>
+<center><b>
+Check out: https://careers.redhat.com/ for Brno location<br/>
+(search words:  cloudforms/entitlement/identity management)<br/>
+or just send an email to me: mkoci@redhat.com
+</b>
+</center>
 
 !SLIDE
 # Cloud Engine QA #
@@ -85,6 +97,18 @@
  * 4 people in US
  * 5 people in India
  * RoR/Python/Ruby
+ * http://www.aeolusproject.org/source.html
+<br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<center><b>
+Check out: https://careers.redhat.com/ for Brno location<br/>
+(search words:  cloudforms/entitlement/identity management)<br/>
+or just send an email to me: mkoci@redhat.com
+</b>
+</center>
 
 !SLIDE 
 # System Engine QA #
@@ -93,19 +117,12 @@
  * 4 people in US
  * 2 people in Brno
  * 2 people in India
- * Java/Python/Bash
+ * Java/Python
  (Internal demo: https://smqe-sat04.lab.eng.brq.redhat.com/katello)
    <br/><br/>
    <center>
    ![Katello architecture](../arch-diagram.png)
    </center>
-
-!SLIDE 
-# Matahari, DeltaCloud QA #
- * Matahari - deprecated 
- * http://deltacloud.apache.org
-   * API that abstract diff between clouds
-   * RESTful API
 
 !SLIDE
 # Conclusion #
@@ -121,6 +138,17 @@ I'd be happy if you remmeber/note at least these:
   * aeolus-devel@lists.fedorahoststed.org
   * iwhd-devel@lists.fedorahosted.org
   * katello@lists.fedorahosted.org
+
+!SLIDE
+# Do not forget - QA is fun ! #
+
+moreover
+
+* we have great working environment 
+* you can touch new technologies
+* meet with interesting people
+
+ ![Homer at work](../homer_work.jpg)
 
 !SLIDE
 # Questions #
