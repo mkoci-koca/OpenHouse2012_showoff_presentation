@@ -77,7 +77,7 @@
 # Application Engine QA #
  * pretty new team in Brno - myself so far :)
  * <b>0</b> people in Brno
- * Python/Ruby/RoR
+ * Python/Ruby/Bash
  * http://www.aeolusproject.org/source.html
 <br/>
 <br/><br/>
@@ -87,7 +87,8 @@
 <center><b>
 Check out: https://careers.redhat.com/ for Brno location<br/>
 (search words:  cloudforms/entitlement/identity management)<br/>
-or just send an email to me: mkoci@redhat.com
+or just send an email to me: mkoci@redhat.com<br/><br/>
+Interns info: The 2012 internship selection process will begin in May.  In order to be considered, you must send your CV with contact information to jobsCZ@redhat.com
 </b>
 </center>
 
@@ -96,7 +97,7 @@ or just send an email to me: mkoci@redhat.com
  * <b>0</b> people in Brno
  * 4 people in US
  * 5 people in India
- * RoR/Python/Ruby
+ * Python/Ruby/Java/RoR/Bash
  * http://www.aeolusproject.org/source.html
 <br/><br/>
 <br/>
@@ -106,7 +107,8 @@ or just send an email to me: mkoci@redhat.com
 <center><b>
 Check out: https://careers.redhat.com/ for Brno location<br/>
 (search words:  cloudforms/entitlement/identity management)<br/>
-or just send an email to me: mkoci@redhat.com
+or just send an email to me: mkoci@redhat.com<br/><br/>
+Interns info: The 2012 internship selection process will begin in May.  In order to be considered, you must send your CV with contact information to jobsCZ@redhat.com
 </b>
 </center>
 
@@ -117,7 +119,7 @@ or just send an email to me: mkoci@redhat.com
  * 4 people in US
  * 2 people in Brno
  * 2 people in India
- * Java/Python
+ * Java/Python/Bash
  (Internal demo: https://smqe-sat04.lab.eng.brq.redhat.com/katello)
    <br/><br/>
    <center>
